@@ -1,0 +1,3 @@
+﻿  Duplikat.cpp
+C:\Users\JB\Desktop\s5\c++\lab5\Duplikat\Duplikat.cpp(31,21): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+  Duplikat.vcxproj -> C:\Users\JB\Desktop\s5\c++\lab5\Duplikat\x64\Debug\Duplikat.exe
