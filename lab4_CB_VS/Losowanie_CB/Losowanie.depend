@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1667768540 source:c:\users\jb\desktop\s5\c++\losowanie\main.cpp
+	<iostream>
+	<list>
+	<stdlib.h>
+	<time.h>
+
+1667768540 source:c:\users\jb\desktop\s5\c++\lab4\losowanie\main.cpp
+	<iostream>
+	<list>
+	<stdlib.h>
+	<time.h>
+
