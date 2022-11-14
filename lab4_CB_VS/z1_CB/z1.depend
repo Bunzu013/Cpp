@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1666625434 source:c:\users\jb\desktop\s5\c++\z1\even.cpp
+	"Even.h"
+
+1666625435 c:\users\jb\desktop\s5\c++\z1\even.h
+
+1666626107 source:c:\users\jb\desktop\s5\c++\z1\compare.cpp
+	"Compare.h"
+
+1666626019 c:\users\jb\desktop\s5\c++\z1\compare.h
+	"Student.h"
+
+1666626107 c:\users\jb\desktop\s5\c++\z1\student.h
+	<iostream>
+
+1666626107 source:c:\users\jb\desktop\s5\c++\z1\student.cpp
+	"Student.h"
+
