@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1666019285 source:c:\users\jb\desktop\s5\c++\z1\main.cpp
+	<iostream>
+	"Adding.h"
+	"Student.h"
+
+1666019013 c:\users\jb\desktop\s5\c++\z1\adding.h
+
+1666019269 c:\users\jb\desktop\s5\c++\z1\student.h
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1666623469 source:c:\users\jb\desktop\s5\c++\lab3\tablica\main.cpp
+	<iostream>
+	"Array.h"
+
+1666624847 c:\users\jb\desktop\s5\c++\lab3\tablica\array.h
+	<iostream>
+	<algorithm>
+
