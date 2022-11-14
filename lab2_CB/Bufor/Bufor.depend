@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1666618764 source:c:\users\jb\desktop\s5\c++\lab2\bufor\main.cpp
+	<iostream>
+	"Bufor.h"
+	"MaxBufor.h"
+	"MeanBufor.h"
+	<stdlib.h>
+	<time.h>
+
+1666002592 source:c:\users\jb\desktop\s5\c++\lab2\bufor\bufor.cpp
+	"Bufor.h"
+	<iostream>
+
+1665963209 c:\users\jb\desktop\s5\c++\lab2\bufor\bufor.h
+
+1666003016 source:c:\users\jb\desktop\s5\c++\lab2\bufor\meanbufor.cpp
+	"MeanBufor.h"
+
+1665965308 c:\users\jb\desktop\s5\c++\lab2\bufor\meanbufor.h
+	"Bufor.h"
+
+1666003037 source:c:\users\jb\desktop\s5\c++\lab2\bufor\maxbufor.cpp
+	"MaxBufor.h"
+	<iostream>
+
+1665965837 c:\users\jb\desktop\s5\c++\lab2\bufor\maxbufor.h
+	"Bufor.h"
+

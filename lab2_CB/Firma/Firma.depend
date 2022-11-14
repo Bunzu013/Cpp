@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1666019488 source:c:\users\jb\desktop\s5\c++\lab2\firma\main.cpp
+	<iostream>
+	"Employee.h"
+	"Developer.h"
+	"TeamLeader.h"
+	<iomanip>
+
+1665953933 c:\users\jb\desktop\s5\c++\lab2\firma\employee.h
+	<iostream>
+
+1666018074 source:c:\users\jb\desktop\s5\c++\lab2\firma\developer.cpp
+	"Developer.h"
+	"Employee.h"
+	<iostream>
+
+1665956638 c:\users\jb\desktop\s5\c++\lab2\firma\developer.h
+	"Employee.h"
+
+1666018159 source:c:\users\jb\desktop\s5\c++\lab2\firma\teamleader.cpp
+	"Employee.h"
+	"TeamLeader.h"
+	<iostream>
+	<math.h>
+	<iomanip>
+
+1665957918 c:\users\jb\desktop\s5\c++\lab2\firma\teamleader.h
+
+1666018047 source:c:\users\jb\desktop\s5\c++\lab2\firma\employee.cpp
+	<iostream>
+	"Employee.h"
+

@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1665415306 source:c:\users\jb\desktop\s5\c++\lab2\figure.cpp
+	<iostream>
+	"Figure.h"
+
+1665414791 c:\users\jb\desktop\s5\c++\lab2\figure.h
+
+1665415306 source:c:\users\jb\desktop\s5\c++\lab2\square.cpp
+	<iostream>
+	"Figure.h"
+	"Square.h"
+
+1665414056 c:\users\jb\desktop\s5\c++\lab2\square.h
+	"Figure.h"
+
+1665415277 source:c:\users\jb\desktop\s5\c++\lab2\circle.cpp
+	<iostream>
+	"Figure.h"
+	"Circle.h"
+
+1665414372 c:\users\jb\desktop\s5\c++\lab2\circle.h
+
+1665415592 source:c:\users\jb\desktop\s5\c++\lab2\main.cpp
+	<iostream>
+	"Figure.h"
+	"Square.h"
+	"Circle.h"
+
+1665415277 source:c:\users\jb\desktop\s5\c++\lab2\z1\circle.cpp
+	<iostream>
+	"Figure.h"
+	"Circle.h"
+
+1665414791 c:\users\jb\desktop\s5\c++\lab2\z1\figure.h
+
+1665414372 c:\users\jb\desktop\s5\c++\lab2\z1\circle.h
+
+1665415306 source:c:\users\jb\desktop\s5\c++\lab2\z1\figure.cpp
+	<iostream>
+	"Figure.h"
+
+1665415592 source:c:\users\jb\desktop\s5\c++\lab2\z1\main.cpp
+	<iostream>
+	"Figure.h"
+	"Square.h"
+	"Circle.h"
+
+1665414056 c:\users\jb\desktop\s5\c++\lab2\z1\square.h
+	"Figure.h"
+
+1665415306 source:c:\users\jb\desktop\s5\c++\lab2\z1\square.cpp
+	<iostream>
+	"Figure.h"
+	"Square.h"
+
