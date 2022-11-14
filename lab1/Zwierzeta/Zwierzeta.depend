@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1665412260 source:c:\users\jb\desktop\s5\c++\zwierzeta\main.cpp
+	<iostream>
+	"Animal.h"
+	"Dog.h"
+	"Cat.h"
+
+1665395376 source:c:\users\jb\desktop\s5\c++\zwierzeta\animal.cpp
+	<iostream>
+	"Animal.h"
+
+1665395370 c:\users\jb\desktop\s5\c++\zwierzeta\animal.h
+	<iostream>
+
+1665394341 source:c:\users\jb\desktop\s5\c++\zwierzeta\dog.cpp
+	<iostream>
+	"Dog.h"
+
+1665395370 c:\users\jb\desktop\s5\c++\zwierzeta\dog.h
+	<iostream>
+	"Animal.h"
+
+1665395296 source:c:\users\jb\desktop\s5\c++\zwierzeta\cat.cpp
+	<iostream>
+	"Cat.h"
+
+1665395370 c:\users\jb\desktop\s5\c++\zwierzeta\cat.h
+	<iostream>
+	"Animal.h"
+

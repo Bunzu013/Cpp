@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1665412142 source:c:\users\jb\desktop\s5\c++\lab1\teacher.cpp
+	<iostream>
+	"Teacher.h"
+
+1665412057 c:\users\jb\desktop\s5\c++\lab1\teacher.h
+	"Person.h"
+
+1665412368 c:\users\jb\desktop\s5\c++\lab1\person.h
+	<iostream>
+
+1665412036 source:c:\users\jb\desktop\s5\c++\lab1\person.cpp
+	<iostream>
+	"Person.h"
+
+1665412410 source:c:\users\jb\desktop\s5\c++\lab1\student.cpp
+	<iostream>
+	"Student.h"
+
+1665412343 c:\users\jb\desktop\s5\c++\lab1\student.h
+	"Person.h"
+
+1665412480 source:c:\users\jb\desktop\s5\c++\lab1\main.cpp
+	<iostream>
+	"Person.h"
+	"Teacher.h"
+	"Student.h"
+
