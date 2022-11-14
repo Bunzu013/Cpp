@@ -1,0 +1,102 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Zmienna „Codes::citizensQuantity” jest niezainicjowana. Zawsze inicjuj zmienną składową (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/JB/Desktop/s5/c++/Miasto/Codes.h"
+                },
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 2,
+                  "endLine": 16,
+                  "endColumn": 2
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Codes::{ctor}",
+                  "decoratedName": "??0Codes@@QEAA@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "Codes::citizensQuantity"
+          }
+        }
+      ],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.34.31933.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///C:/Users/JB/Desktop/s5/c++/Miasto/Codes.h"
+          },
+          "roles": [
+            "resultFile"
+          ],
+          "hashes": {
+            "sha-256": "c0dd6c3a1f22d7fc7f95dcc9b31a351d106b2951bc320956f1d5028b90809e48"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/jb/desktop/s5/c++/miasto/compare.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "720d5ef6de210051aab6deff2ccc39ea9bb93c7a759d74a6c2d14c78d342be6e"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/jb/desktop/s5/c++/miasto/compare.h"
+          },
+          "hashes": {
+            "sha-256": "0a0246e92376f43b95e68495c7cb364b4a234a443fbf4ba442e1c36699dba8c5"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/jb/desktop/s5/c++/miasto/city.h"
+          },
+          "hashes": {
+            "sha-256": "24f7fdd14c41d7eaef0654e81ad326efb34c143fad05ae799d39e7c98eafa64e"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/jb/desktop/s5/c++/miasto/citizen.h"
+          },
+          "hashes": {
+            "sha-256": "35a44b5122fd556e0d87d2249a14a05bfaa7732a65fc2e239152da76d7910634"
+          }
+        }
+      ]
+    }
+  ]
+}

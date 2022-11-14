@@ -1,0 +1,3 @@
+﻿  City.cpp
+C:\Users\JB\Desktop\s5\c++\Miasto\City.cpp(62,24): warning C4267: "return": konwersja z "size_t" do "int", możliwa utrata danych
+  Miasto.vcxproj -> C:\Users\JB\Desktop\s5\c++\Miasto\x64\Debug\Miasto.exe
