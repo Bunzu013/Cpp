@@ -1,0 +1,51 @@
+﻿  Skrypt.cpp
+C:\Users\JB\Desktop\s5\c++\boost_1_80_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+C:\Users\JB\Desktop\s5\c++\lab6\Skrypt\Skrypt.cpp(165,13): error C2371: "vec": zmiana definicji; różne typy podstawowe
+C:\Users\JB\Desktop\s5\c++\lab6\Skrypt\Skrypt.cpp(148,56): message : zobacz deklarację „vec”
+C:\Users\JB\Desktop\s5\c++\lab6\Skrypt\Skrypt.cpp(166,35): error C2039: „begin”: nie jest składową elementu „boost::fusion::vector<int,std::string,bool,double>”
+C:\Users\JB\Desktop\s5\c++\lab6\Skrypt\Skrypt.cpp(148,22): message : zobacz deklarację „boost::fusion::vector<int,std::string,bool,double>”
+C:\Users\JB\Desktop\s5\c++\lab6\Skrypt\Skrypt.cpp(167,35): error C2039: „end”: nie jest składową elementu „boost::fusion::vector<int,std::string,bool,double>”
+C:\Users\JB\Desktop\s5\c++\lab6\Skrypt\Skrypt.cpp(148,22): message : zobacz deklarację „boost::fusion::vector<int,std::string,bool,double>”
+C:\Users\JB\Desktop\s5\c++\lab6\Skrypt\Skrypt.cpp(168,46): error C2872: "_1": niejednoznaczny symbol
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\functional(2034,34): message : może to być "const std::_Ph<1> std::placeholders::_1"
+C:\Users\JB\Desktop\s5\c++\boost_1_80_0\boost\bind\placeholders.hpp(58,38): message : lub       „const boost::arg<1> boost::placeholders::_1”
+C:\Users\JB\Desktop\s5\c++\lab6\Skrypt\Skrypt.cpp(170,51): error C2872: "_1": niejednoznaczny symbol
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\functional(2034,34): message : może to być "const std::_Ph<1> std::placeholders::_1"
+C:\Users\JB\Desktop\s5\c++\boost_1_80_0\boost\bind\placeholders.hpp(58,38): message : lub       „const boost::arg<1> boost::placeholders::_1”
+C:\Users\JB\Desktop\s5\c++\lab6\Skrypt\Skrypt.cpp(171,46): error C2872: "_1": niejednoznaczny symbol
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\functional(2034,34): message : może to być "const std::_Ph<1> std::placeholders::_1"
+C:\Users\JB\Desktop\s5\c++\boost_1_80_0\boost\bind\placeholders.hpp(58,38): message : lub       „const boost::arg<1> boost::placeholders::_1”
+C:\Users\JB\Desktop\s5\c++\lab6\Skrypt\Skrypt.cpp(172,29): error C2039: „begin”: nie jest składową elementu „boost::fusion::vector<int,std::string,bool,double>”
+C:\Users\JB\Desktop\s5\c++\lab6\Skrypt\Skrypt.cpp(148,22): message : zobacz deklarację „boost::fusion::vector<int,std::string,bool,double>”
+C:\Users\JB\Desktop\s5\c++\lab6\Skrypt\Skrypt.cpp(172,42): error C2039: „end”: nie jest składową elementu „boost::fusion::vector<int,std::string,bool,double>”
+C:\Users\JB\Desktop\s5\c++\lab6\Skrypt\Skrypt.cpp(148,22): message : zobacz deklarację „boost::fusion::vector<int,std::string,bool,double>”
+C:\Users\JB\Desktop\s5\c++\lab6\Skrypt\Skrypt.cpp(174,35): error C2872: "_1": niejednoznaczny symbol
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\functional(2034,34): message : może to być "const std::_Ph<1> std::placeholders::_1"
+C:\Users\JB\Desktop\s5\c++\boost_1_80_0\boost\bind\placeholders.hpp(58,38): message : lub       „const boost::arg<1> boost::placeholders::_1”
+C:\Users\JB\Desktop\s5\c++\lab6\Skrypt\Skrypt.cpp(175,38): error C2872: "_1": niejednoznaczny symbol
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\functional(2034,34): message : może to być "const std::_Ph<1> std::placeholders::_1"
+C:\Users\JB\Desktop\s5\c++\boost_1_80_0\boost\bind\placeholders.hpp(58,38): message : lub       „const boost::arg<1> boost::placeholders::_1”
+C:\Users\JB\Desktop\s5\c++\lab6\Skrypt\Skrypt.cpp(172,16): error C2672: „std::count_if”: nie znaleziono zgodnej przeciążonej funkcji
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\algorithm(502,45): message : może to być „iterator_traits<_Iter>::difference_type std::count_if(_InIt,_InIt,_Pr)”
+C:\Users\JB\Desktop\s5\c++\lab6\Skrypt\Skrypt.cpp(172,16): message : „iterator_traits<_Iter>::difference_type std::count_if(_InIt,_InIt,_Pr)”: oczekuje 3 argumentów — podano 2
+C:\Users\JB\Desktop\s5\c++\lab6\Skrypt\Skrypt.cpp(179,32): error C2872: "_1": niejednoznaczny symbol
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\functional(2034,34): message : może to być "const std::_Ph<1> std::placeholders::_1"
+C:\Users\JB\Desktop\s5\c++\boost_1_80_0\boost\bind\placeholders.hpp(58,38): message : lub       „const boost::arg<1> boost::placeholders::_1”
+C:\Users\JB\Desktop\s5\c++\lab6\Skrypt\Skrypt.cpp(179,35): error C2872: "_2": niejednoznaczny symbol
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\functional(2035,34): message : może to być "const std::_Ph<2> std::placeholders::_2"
+C:\Users\JB\Desktop\s5\c++\boost_1_80_0\boost\bind\placeholders.hpp(59,38): message : lub       „const boost::arg<2> boost::placeholders::_2”
+C:\Users\JB\Desktop\s5\c++\lab6\Skrypt\Skrypt.cpp(183,29): error C2872: "_2": niejednoznaczny symbol
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\functional(2035,34): message : może to być "const std::_Ph<2> std::placeholders::_2"
+C:\Users\JB\Desktop\s5\c++\boost_1_80_0\boost\bind\placeholders.hpp(59,38): message : lub       „const boost::arg<2> boost::placeholders::_2”
+C:\Users\JB\Desktop\s5\c++\lab6\Skrypt\Skrypt.cpp(183,32): error C2872: "_1": niejednoznaczny symbol
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\functional(2034,34): message : może to być "const std::_Ph<1> std::placeholders::_1"
+C:\Users\JB\Desktop\s5\c++\boost_1_80_0\boost\bind\placeholders.hpp(58,38): message : lub       „const boost::arg<1> boost::placeholders::_1”
+C:\Users\JB\Desktop\s5\c++\lab6\Skrypt\Skrypt.cpp(187,36): error C2872: "_1": niejednoznaczny symbol
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\functional(2034,34): message : może to być "const std::_Ph<1> std::placeholders::_1"
+C:\Users\JB\Desktop\s5\c++\boost_1_80_0\boost\bind\placeholders.hpp(58,38): message : lub       „const boost::arg<1> boost::placeholders::_1”
+C:\Users\JB\Desktop\s5\c++\lab6\Skrypt\Skrypt.cpp(187,40): error C2872: "_1": niejednoznaczny symbol
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\functional(2034,34): message : może to być "const std::_Ph<1> std::placeholders::_1"
+C:\Users\JB\Desktop\s5\c++\boost_1_80_0\boost\bind\placeholders.hpp(58,38): message : lub       „const boost::arg<1> boost::placeholders::_1”
+C:\Users\JB\Desktop\s5\c++\lab6\Skrypt\Skrypt.cpp(189,37): error C2872: "_1": niejednoznaczny symbol
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\functional(2034,34): message : może to być "const std::_Ph<1> std::placeholders::_1"
+C:\Users\JB\Desktop\s5\c++\boost_1_80_0\boost\bind\placeholders.hpp(58,38): message : lub       „const boost::arg<1> boost::placeholders::_1”
