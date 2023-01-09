@@ -50,15 +50,11 @@ public:
 	void removeContact(int number1)
 	{
 		
-		for (phoneNumber_type::iterator i = ksiazka.get<3>().begin(); i != ksiazka.get<3>().end(); i++) 
-		{
-			if (i->telefon == number1) 
-			{
-				phoneNumber_type& phone_remove = ksiazka.get<3>();
-			
-				
-			}
-		}
+		auto& phone_number_idx = ksiazka.get<3>();
+		auto contact = phone_number_idx.find(number1);
+		if (contact != phone_number_idx.end())
+			phone_number_idx.erase(contact);
+		else cout << "Brak numeru w ksiazce " << endl;
 	}
 	
 	void all(string street1)
