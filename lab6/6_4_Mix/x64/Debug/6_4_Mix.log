@@ -1,0 +1,36 @@
+﻿  6_4_Mix.cpp
+C:\Users\JB\Desktop\s5\c++\boost_1_80_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+C:\Users\JB\Desktop\s5\c++\boost_1_80_0\boost\fusion\container\vector\vector.hpp(168,23): warning C4244: "inicjowanie": konwersja z "_Ty" do "T", możliwa utrata danych
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\JB\Desktop\s5\c++\boost_1_80_0\boost\fusion\container\vector\vector.hpp(215,1): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „boost::fusion::vector_detail::store<3,float>::store<_Ty,void>(U &&)” funkcji szablon
+          with
+          [
+              _Ty=double,
+              U=double
+          ]
+C:\Users\JB\Desktop\s5\c++\boost_1_80_0\boost\fusion\container\vector\vector.hpp(215,30): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „boost::fusion::vector_detail::store<3,float>::store<_Ty,void>(U &&)” funkcji szablon
+          with
+          [
+              _Ty=double,
+              U=double
+          ]
+C:\Users\JB\Desktop\s5\c++\boost_1_80_0\boost\fusion\container\vector\vector.hpp(290,1): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „boost::fusion::vector_detail::vector_data<std::integer_sequence<size_t,0,1,2,3,4,5,6>,int,char,double,float,bool,bool,char>::vector_data<_Ty,char,double,double,bool,bool,char>(boost::fusion::vector_detail::each_elem,_Ty &&,char &&,double &&,double &&,bool &&,bool &&,char &&)” funkcji szablon
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\JB\Desktop\s5\c++\boost_1_80_0\boost\fusion\container\vector\vector.hpp(290,19): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „boost::fusion::vector_detail::vector_data<std::integer_sequence<size_t,0,1,2,3,4,5,6>,int,char,double,float,bool,bool,char>::vector_data<_Ty,char,double,double,bool,bool,char>(boost::fusion::vector_detail::each_elem,_Ty &&,char &&,double &&,double &&,bool &&,bool &&,char &&)” funkcji szablon
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\JB\Desktop\s5\c++\lab6\6_4_Mix\6_4_Mix.cpp(41,109): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „boost::fusion::vector<int,char,double,float,bool,bool,char>::vector<int,char,double,double,bool,bool,char,void>(int &&,char &&,double &&,double &&,bool &&,bool &&,char &&)” funkcji szablon
+C:\Users\JB\Desktop\s5\c++\lab6\6_4_Mix\6_4_Mix.cpp(41,71): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „boost::fusion::vector<int,char,double,float,bool,bool,char>::vector<int,char,double,double,bool,bool,char,void>(int &&,char &&,double &&,double &&,bool &&,bool &&,char &&)” funkcji szablon
+  6_4_Mix.vcxproj -> C:\Users\JB\Desktop\s5\c++\lab6\6_4_Mix\x64\Debug\6_4_Mix.exe

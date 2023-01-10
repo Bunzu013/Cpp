@@ -1,0 +1,5 @@
+﻿  6_3_statystyka.cpp
+C:\Users\JB\Desktop\s5\c++\boost_1_80_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+C:\Users\JB\Desktop\s5\c++\lab6\6_3_statystyka\6_3_statystyka.cpp(32,1): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\JB\Desktop\s5\c++\lab6\6_3_statystyka\6_3_statystyka.cpp(27,17): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „void zadanie3<int>(std::vector<int,std::allocator<int>>)” funkcji szablon
+  6_3_statystyka.vcxproj -> C:\Users\JB\Desktop\s5\c++\lab6\6_3_statystyka\x64\Debug\6_3_statystyka.exe
