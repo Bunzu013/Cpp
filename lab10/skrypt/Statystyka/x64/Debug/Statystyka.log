@@ -1,0 +1,3 @@
+﻿  Statystyka.cpp
+C:\Users\JB\Desktop\s5\c++\lab10\Statystyka\Statystyka.cpp(48,31): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+  Statystyka.vcxproj -> C:\Users\JB\Desktop\s5\c++\lab10\Statystyka\x64\Debug\Statystyka.exe
