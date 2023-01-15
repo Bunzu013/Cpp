@@ -1,0 +1,2 @@
+C:\Users\JB\Desktop\s5\c++\lab10\lab11\x64\Debug\lab11.exe
+C:\Users\JB\Desktop\s5\c++\lab11\skrypt\x64\Debug\lab11.exe
