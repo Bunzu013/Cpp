@@ -1,0 +1,5 @@
+﻿  StudentRecords.cpp
+C:\Users\JB\Desktop\s5\c++\lab9\kartoteka\StudentRecords.cpp(39,36): warning C4101: "e": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\JB\Desktop\s5\c++\lab9\kartoteka\StudentRecords.cpp(123,35): warning C4101: "e": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\JB\Desktop\s5\c++\lab9\kartoteka\StudentRecords.cpp(160,35): warning C4101: "e": lokalna zmienna, do której nie istnieje odwołanie
+  kartoteka.vcxproj -> C:\Users\JB\Desktop\s5\c++\lab9\kartoteka\x64\Debug\kartoteka.exe
