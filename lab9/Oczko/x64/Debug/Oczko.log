@@ -1,0 +1,4 @@
+﻿  Oczko.cpp
+C:\Users\JB\Desktop\s5\c++\lab9\Oczko\Oczko.cpp(44,20): warning C4101: "w1": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\JB\Desktop\s5\c++\lab9\Oczko\Oczko.cpp(12): warning C4715: "sum”: niewszystkie ścieżki kodu zwracają wartość
+  Oczko.vcxproj -> C:\Users\JB\Desktop\s5\c++\lab9\Oczko\x64\Debug\Oczko.exe
