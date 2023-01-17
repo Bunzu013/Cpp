@@ -1,0 +1,92 @@
+﻿  skrypt.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\tuple(523,76): warning C4244: "=": konwersja z "_Ty" do "_Ty", możliwa utrata danych
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Ty=float
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\tuple(522,1): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „std::tuple<float> &std::tuple<float>::operator =<double,0>(std::tuple<double> &&) noexcept” funkcji szablon
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\tuple(524,23): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „std::tuple<float> &std::tuple<float>::operator =<double,0>(std::tuple<double> &&) noexcept” funkcji szablon
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\tuple(522,1): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „std::tuple<int,float> &std::tuple<int,float>::operator =<int,double,0>(std::tuple<int,double> &&) noexcept” funkcji szablon
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\tuple(524,23): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „std::tuple<int,float> &std::tuple<int,float>::operator =<int,double,0>(std::tuple<int,double> &&) noexcept” funkcji szablon
+C:\Users\JB\Desktop\s5\c++\lab12\skrypt\skrypt.cpp(32,31): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „std::tuple<char,int,float> &std::tuple<char,int,float>::operator =<char,int,double,0>(std::tuple<char,int,double> &&) noexcept” funkcji szablon
+C:\Users\JB\Desktop\s5\c++\lab12\skrypt\skrypt.cpp(32,5): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „std::tuple<char,int,float> &std::tuple<char,int,float>::operator =<char,int,double,0>(std::tuple<char,int,double> &&) noexcept” funkcji szablon
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\tuple(144,47): warning C4244: "inicjowanie": konwersja z "_Ty" do "_Ty", możliwa utrata danych
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Ty=float
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\tuple(239,1): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „std::_Tuple_val<_This>::_Tuple_val<_Ty>(_Other &&)” funkcji szablon
+          with
+          [
+              _This=float,
+              _Ty=double,
+              _Other=double
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\tuple(239,81): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „std::_Tuple_val<_This>::_Tuple_val<_Ty>(_Other &&)” funkcji szablon
+          with
+          [
+              _This=float,
+              _Ty=double,
+              _Other=double
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\tuple(239,1): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „std::tuple<float>::tuple<std::_Exact_args_t,_Ty,,0>(_Tag,_This2 &&)” funkcji szablon
+          with
+          [
+              _Ty=double,
+              _Tag=std::_Exact_args_t,
+              _This2=double
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\tuple(239,18): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „std::tuple<float>::tuple<std::_Exact_args_t,_Ty,,0>(_Tag,_This2 &&)” funkcji szablon
+          with
+          [
+              _Ty=double,
+              _Tag=std::_Exact_args_t,
+              _This2=double
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\tuple(239,1): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „std::tuple<int,float>::tuple<std::_Exact_args_t,_Ty,double,0>(_Tag,_This2 &&,double &&)” funkcji szablon
+          with
+          [
+              _Ty=int,
+              _Tag=std::_Exact_args_t,
+              _This2=int
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\tuple(239,18): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „std::tuple<int,float>::tuple<std::_Exact_args_t,_Ty,double,0>(_Tag,_This2 &&,double &&)” funkcji szablon
+          with
+          [
+              _Ty=int,
+              _Tag=std::_Exact_args_t,
+              _This2=int
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\tuple(285,1): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „std::tuple<char,int,float>::tuple<std::_Exact_args_t,_Ty,int,double,0>(_Tag,_This2 &&,int &&,double &&)” funkcji szablon
+          with
+          [
+              _Ty=char,
+              _Tag=std::_Exact_args_t,
+              _This2=char
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\tuple(285,16): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „std::tuple<char,int,float>::tuple<std::_Exact_args_t,_Ty,int,double,0>(_Tag,_This2 &&,int &&,double &&)” funkcji szablon
+          with
+          [
+              _Ty=char,
+              _Tag=std::_Exact_args_t,
+              _This2=char
+          ]
+C:\Users\JB\Desktop\s5\c++\lab12\skrypt\skrypt.cpp(49,1): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „std::tuple<char,int,float>::tuple<char,int,double,0>(_This2 &&,int &&,double &&) noexcept” funkcji szablon
+          with
+          [
+              _This2=char
+          ]
+C:\Users\JB\Desktop\s5\c++\lab12\skrypt\skrypt.cpp(49,27): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „std::tuple<char,int,float>::tuple<char,int,double,0>(_This2 &&,int &&,double &&) noexcept” funkcji szablon
+          with
+          [
+              _This2=char
+          ]
+  skrypt.vcxproj -> C:\Users\JB\Desktop\s5\c++\lab12\skrypt\x64\Debug\skrypt.exe

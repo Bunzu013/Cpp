@@ -1,0 +1,3 @@
+﻿  12_1_algorytmy.cpp
+C:\Users\JB\Desktop\s5\c++\lab12\12_1_algorytmy\12_1_algorytmy.cpp(44,16): warning C4244: "inicjowanie": konwersja z "__int64" do "int", możliwa utrata danych
+  12_1_algorytmy.vcxproj -> C:\Users\JB\Desktop\s5\c++\lab12\12_1_algorytmy\x64\Debug\12_1_algorytmy.exe
